@@ -3,7 +3,7 @@ motor==3.3.2
 pyrogram==2.0.106
 pymongo
 python-dotenv==1.0.1
-pytgcalls
+pytgcalls 2.1.0
 tgcrypto==1.2.5
 yt-dlp==2023.12.30
 telegraph
