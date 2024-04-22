@@ -32,7 +32,6 @@ async def main():
     logs.info(">> Successfully Imported All Plugins.")
     await run_async_inline()
     logs.info("Successfully Deployed !!")
-    await run_async_calls()
     logs.info("Do Visit - @ll_THE_BAD_BOT_ll")
     await idle()
 
