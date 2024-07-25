@@ -1,4 +1,4 @@
-# HEROKU HOST EDIT THIS FILE
+# HEROKU HOST ( EDIT THIS FILE NAME console.py )
 import os
 import time
 import logging
