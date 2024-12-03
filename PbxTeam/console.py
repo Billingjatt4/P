@@ -29,7 +29,7 @@ if os.path.exists("Internal"):
 
 
 API_ID = 25742938
-API_HASH = getenv("API_HASH", None)
+API_HASH = "b35b715fe8dc0a58e8048988286fc5b6"
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 STRING_SESSION = getenv("STRING_SESSION", None)
 MONGO_DB_URL = getenv("MONGO_DB_URL", None)
